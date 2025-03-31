@@ -1,0 +1,11 @@
+// Base
+@import "variaveis";
+@import "base";
+
+// layouts
+@import "./layouts/default";
+@import "./layouts/login-page";
+
+// Pages
+@import "./pages/login";
+@import "./pages/home";
